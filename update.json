@@ -1,7 +1,7 @@
 {
   "version": "9.0.0.3",
   "displayVersion": "9.0 PRO RC3",
-  "notes": "Nova versão de teste disponível para validar a atualização online do Windows Care 9.0 PRO.",
-  "downloadUrl": "",
-  "sha256": ""
+  "notes": "Nova versão de teste disponível para validar o download seguro do Windows Care 9.0 PRO.",
+  "downloadUrl": "https://raw.githubusercontent.com/mbgalvao/windows-care-updates/refs/heads/main/Windows_Care_9.0_PRO_RC3_TESTE.zip",
+  "sha256": "cd25fb14c93e93bb6435370634bb3169f8a6bb1f59192abbb78f5aea57dd8003"
 }
