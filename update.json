@@ -1,7 +1,7 @@
 {
-  "version": "9.0.0.5",
-  "displayVersion": "9.0 PRO FINAL",
-  "notes": "Windows Care 9.0 PRO FINAL - versão estável com diagnóstico, licença, atualização controlada, backup e rollback.",
+  "version": "9.0.0.6",
+  "displayVersion": "9.0 PRO FINAL 1",
+  "notes": "Windows Care 9.0 PRO FINAL 1 - teste de detecção do sistema de atualização.",
   "downloadUrl": "",
   "sha256": ""
 }
