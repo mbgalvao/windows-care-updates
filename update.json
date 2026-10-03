@@ -1,7 +1,7 @@
 {
-  "version": "9.0.0.4",
-  "displayVersion": "9.0 PRO RC3.2",
-  "notes": "Windows Care 9.0 PRO RC3.2 - atualização controlada com backup e rollback.",
-  "downloadUrl": "https://raw.githubusercontent.com/mbgalvao/windows-care-updates/refs/heads/main/Windows_Care_9.0_PRO_RC3_2_PAYLOAD.zip",
-  "sha256": "e0aa6baee7514297518481c7c62d227b84b9234b272fc75b7b6449bd23e20bd2"
+  "version": "9.0.0.5",
+  "displayVersion": "9.0 PRO FINAL",
+  "notes": "Windows Care 9.0 PRO FINAL - versão estável com diagnóstico, licença, atualização controlada, backup e rollback.",
+  "downloadUrl": "",
+  "sha256": ""
 }
