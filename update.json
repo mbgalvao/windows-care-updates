@@ -1,7 +1,7 @@
 {
-  "version": "9.0.0.7",
-  "displayVersion": "9.0 PRO FINAL 3",
-  "notes": "Windows Care 9.0 PRO FINAL 3 - atualização oficial. Sistema de atualização validado com download seguro, verificação SHA-256, backup automático, instalação controlada, validação pós-cópia e reinicialização automática.",
-  "downloadUrl": "https://raw.githubusercontent.com/mbgalvao/windows-care-updates/main/Windows_Care_9.0.0.7_FINAL_3_OK.zip",
-  "sha256": "B38FC4F2484279B17D38047991EF4963C3D89619B2F95BF12DD915218FB7B07C"
+  "version": "9.0.0.8",
+  "displayVersion": "9.0 PRO FINAL 4",
+  "notes": "Windows Care 9.0 PRO FINAL 4 - adiciona historico local de atualizacoes, com registro de download validado por SHA-256 e inicio da instalacao controlada.",
+  "downloadUrl": "https://raw.githubusercontent.com/mbgalvao/windows-care-updates/main/Windows_Care_9.0.0.8_FINAL_4_OFICIAL.zip",
+  "sha256": "282633EDD86642EC50776D1F1B88CDB884E308649813A23AFBEB341959032BEE"
 }
