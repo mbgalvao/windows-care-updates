@@ -1,5 +1,5 @@
 {
-  "version": "9.0.0.6",
+  "version": "9.0.0.7",
   "displayVersion": "9.0 PRO FINAL 2 TESTE",
   "notes": "Teste controlado do sistema de atualização: UAC, backup, SHA-256, instalação, validação e reinicialização.",
   "downloadUrl": "https://raw.githubusercontent.com/mbgalvao/windows-care-updates/main/Windows_Care_9.0.0.6_FINAL_2_TESTE.zip",
